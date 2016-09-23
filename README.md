@@ -1,4 +1,4 @@
-# react-bootstrap-table
+# react-bootstrap-table - hemal version
 
 [![NPM version][npm-badge]][npm] [![Build Status][travis-ci-image]][travis-ci-url]
 
